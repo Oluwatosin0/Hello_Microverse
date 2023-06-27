@@ -12,6 +12,8 @@ push to the repo and
 
 create a pull request.
 
+
+
 #This project was built with:
 
 HTML5
@@ -19,6 +21,8 @@ HTML5
 CSS3
 
 Linters
+
+
 
 #Version Control System
 
@@ -29,7 +33,7 @@ GIT
 
 Github
 
-#👤 Author
+👤 Author
 
 GitHub: @Oluwatosin0
 
